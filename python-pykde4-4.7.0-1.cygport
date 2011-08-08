@@ -7,5 +7,4 @@ SRC_URI="mirror://kde/stable/${PV}/src/${ORIG_PN}-${PV}.tar.bz2"
 PATCH_URI="
 	4.2.0-python-dlfcn.patch
 	4.7.0-cygwin.patch
-	4.7.0-soprano26.patch
 "
