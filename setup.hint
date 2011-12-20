@@ -1,5 +1,4 @@
 category: KDE Python
-requires: libgcc1 libkdecore5 libkpim4 libplasma3 libQtCore4 libQtGui4 libQtNetwork4 libQtSvg4 libQtXml4 libsoprano4 libstdc++6 python python-pyqt4 python-sip
-external-source: kdebindings
+requires: libgcc1 libkdecore5 libkpim4 libphonon4 libplasma3 libQtCore4 libQtGui4 libQtNetwork4 libQtSvg4 libQtXml4 libsoprano4 libstdc++6 python python-pyqt4 python-sip
 sdesc: "Python KDE4 bindings"
 ldesc: "A collection of language bindings for Qt and KDE"
