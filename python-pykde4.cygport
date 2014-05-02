@@ -2,7 +2,7 @@ ORIG_PN="pykde4"
 inherit python kde4
 
 NAME="python-pykde4"
-VERSION=4.11.5
+VERSION=4.12.5
 RELEASE=1
 CATEGORY="Python"
 SUMMARY="Python KDE4 bindings"
